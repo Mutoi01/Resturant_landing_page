@@ -99,7 +99,7 @@ hr{
   height: 200px;
 }
 
-.container{
+.footer-container{
   background-color: black;
 
 }
@@ -109,7 +109,7 @@ hr{
   
 }
 
-row{
+.row{
   display: flex;
   flex-wrap: wrap;
   
