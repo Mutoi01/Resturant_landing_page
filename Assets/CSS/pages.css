@@ -60,3 +60,38 @@ li, a{
 sub{
   font-size: larger;
 }
+
+/* 1ST   section styling */
+
+.container1{
+  display: flex;
+
+}
+
+.grid-item1 {
+ 
+  width: 40%; 
+  margin-left: 15%;
+}
+
+.grid-item2{
+ 
+  
+  width: 30%;
+  position: absolute;
+  
+  left: 75%;
+  
+}
+
+
+
+.property-img{
+  width: 500px;
+ 
+}
+
+input[type=text] {
+  border: none;
+  border-bottom: 2px solid rgba(0,0,0, 0.2);
+}
