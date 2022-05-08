@@ -95,3 +95,29 @@ input[type=text] {
   border: none;
   border-bottom: 2px solid rgba(0,0,0, 0.2);
 }
+
+
+/* container2 styling */
+.container2{
+  display:flex;
+  padding-left: 14.5% ;
+ 
+  width: 40%;
+}
+
+.imgs{
+  padding: 0.5%;
+}
+
+.c-img{
+  width: 70px;
+  height: 70px;
+}
+
+.details {
+  width: 50%;
+  height: 30%;
+ 
+  padding: 1em;
+  margin-left: 15%;
+}
