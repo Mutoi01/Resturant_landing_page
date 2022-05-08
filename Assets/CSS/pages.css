@@ -5,6 +5,14 @@
 }
 
 /* header styling */
+header{
+  height: 4em;
+  display: flex;
+  color: rgba(255, 255, 255, 0.8);
+  background-color: black;
+  padding: 1.5% 15% 0px 15%;
+}
+
 nav{
   
   background-color: black;
@@ -31,4 +39,24 @@ nav >ul >li {
 li, a{
   text-decoration: none;
   color: white;
+}
+
+.txt-left{
+  width: 50%;
+}
+
+.txt-left > p{
+  font-size: x-small;
+}
+
+.txt-right{
+  width: 50%;
+  text-align: right;
+}
+
+.txt-right > p{
+  font-size: x-small;
+}
+sub{
+  font-size: larger;
 }
