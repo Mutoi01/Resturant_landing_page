@@ -41,3 +41,42 @@ nav a{
   color:#FAFF00 ;
   font-weight: 150;
 }
+
+/* 1st section styling */
+
+.section1{
+  border: 2px solid black;
+  display: flex;
+  margin-top: 3em;
+  margin-left: 15%;
+  width: 80%;
+  
+}
+
+.hustle-img{
+  width: 50%;
+  background-color: aqua;
+}
+
+#hustle-img{
+  height: 450px;
+  
+}
+
+.hustle-txt{
+  padding: 3em;
+  width: 50%;
+}
+
+
+hr{
+  border: 2px solid;
+  width: 5em;
+}
+
+.top-movers-h1{
+  width:30%;
+  padding: 6em 0;
+  margin-left: 15%;
+  border: 1px solid brown;
+}
