@@ -80,3 +80,33 @@ hr{
   margin-left: 15%;
   border: 1px solid brown;
 }
+
+/* grid section styling */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+
+  /* border: 1px solid rgba(0, 0, 0, 0.8); */
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  gap:1em;
+}
+.card-img{
+  width: 200px;
+  height: 200px;
+}
+
+.container{
+  background-color: black;
+
+}
+
+.icons{
+  font-size: 20px;
+  
+}
