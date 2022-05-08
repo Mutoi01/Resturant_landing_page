@@ -1,0 +1,34 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Poppins', 'Actor', 'Adamina';
+}
+
+/* header styling */
+nav{
+  
+  background-color: black;
+  padding: 2em 14em 2em 0em;
+  
+}
+
+nav >ul >li {
+  display: inline;
+  float:right;
+  padding: 0 49px;
+
+
+}
+
+.work-btn{
+  float:right;
+  margin-right:0px;
+}
+
+  
+
+
+li, a{
+  text-decoration: none;
+  color: white;
+}
