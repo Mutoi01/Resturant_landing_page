@@ -144,3 +144,25 @@ input[type=text] {
 padding: 7px 0px;
 margin-left: 15%;
 }
+
+/* container 4  styling */
+
+.container4{
+  display: flex;
+ 
+  margin-left: 15%;
+  width: 50%;
+ }
+ .container4 > .col1 >ul>li{
+   color: black;
+ }
+ .col1{
+   margin: 0 auto;
+   padding:1em ;
+ 
+ }
+ 
+ .container4 > .col1 > ul>li{
+   padding: 1em;
+   
+ }
