@@ -121,3 +121,26 @@ input[type=text] {
   padding: 1em;
   margin-left: 15%;
 }
+
+/* container3 styling */
+
+
+.container3{
+  width: 100%;
+  display: flex;
+  
+}
+
+
+.description{
+  margin-left: 15%;
+  width: 40%;
+  padding: 4px;
+  
+  justify-content: center;
+}
+
+.features>h2{
+padding: 7px 0px;
+margin-left: 15%;
+}
