@@ -193,3 +193,22 @@ height: 170px;
 .icons > i{
   padding-left: 7px;
 } 
+
+/* button styling */
+.btn2{
+  color: rgb(176, 179, 17);
+  border: none;
+  background-color: rgb(0, 0, 0);
+  height: 40px;
+  width: 120px;
+}
+
+.btn1{
+  background-color: #FFAC12;
+  color: rgb(255, 255, 255);
+  border: none;
+  height: 25px;
+  width: 120px;
+  border-top-right-radius: 8px;
+  margin-left: 200px;
+}
