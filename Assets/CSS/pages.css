@@ -166,3 +166,30 @@ margin-left: 15%;
    padding: 1em;
    
  }
+
+ /* container5 styling */
+
+.container5{
+ 
+  width: 50%;
+  margin-left: 15%;
+}
+
+.similar{
+width: 200px;
+height: 170px;
+}
+
+.listings{
+  padding-right: 2em;
+}
+
+.similar-li{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.icons > i{
+  padding-left: 7px;
+} 
