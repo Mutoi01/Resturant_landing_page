@@ -118,7 +118,7 @@ input[type=text] {
   width: 50%;
   height: 30%;
  
-  padding: 1em;
+  /* padding: 1em; */
   margin-left: 15%;
 }
 
