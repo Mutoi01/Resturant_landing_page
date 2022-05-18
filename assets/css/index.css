@@ -91,12 +91,17 @@ hr{
   display: grid;
   grid-template-columns: auto auto auto;
   padding: 5px;
+  background-color:rgba(128,128,128, 0.2 );
 }
 .grid-item {
   padding: 20px;
   font-size: 30px;
+  margin: 0.5em;
   text-align: center;
   gap:1em;
+  border-radius: 15px;
+  background-color:white;
+
 }
 .card-img{
   width: 200px;
@@ -108,9 +113,9 @@ hr{
   background-color: black;
   width: 100%;
 }
-.
+
 .icons{
-  font-size: 20px;
+  font-size: 15px;
   
 }
 
